@@ -4,8 +4,8 @@ spring:
 
  data:
   mongodb:
-   uri: mongodb://localhost:27017/aiactivityfitness
-   database: aiactivityfitness
+   uri: mongodb://localhost:27017/airecommendationfitness
+   database: airecommendationfitness
 
 server:
  port: 8083
