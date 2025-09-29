@@ -15,6 +15,7 @@ import lombok.Data;
 public class Recommendation {
     private String id;
     private String activityId;
+    private String type;
     private String userId;
     private String recommendation;
     private List<String> improvements;
